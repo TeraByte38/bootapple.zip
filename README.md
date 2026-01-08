@@ -1,7 +1,7 @@
 # bootapple.zip
 Bad Apple, but its the Android bootanimation.zip.
 
-Basically Bad Apple made into a .png image sequence and a .wav.
+Basically Bad Apple made into a .png image sequence and a .wav file.
 
 Resolution is the same at the nicovideo video when downloaded (512x384) and it doesnt scale.
 
